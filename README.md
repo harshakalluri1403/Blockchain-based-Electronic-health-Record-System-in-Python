@@ -30,7 +30,7 @@ After filling in health records, the system displays the following:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd Blockchain-based-Electronic-health-Record-System-in-Python
    ```
 3. Run the application:
    ```bash
